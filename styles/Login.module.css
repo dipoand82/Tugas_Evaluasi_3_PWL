@@ -1,0 +1,16 @@
+.container {
+  max-width: 400px;
+  margin: 100px auto;
+  text-align: center;
+}
+.container button {
+  background: #4285f4;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.container button:hover {
+  background: #357ae8;
+}
